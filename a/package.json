@@ -1,0 +1,25 @@
+{
+    "name": "my-app",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.12.2",
+        "@nuxtjs/composition-api": "^0.12.3",
+        "axios": "^0.20.0",
+        "intersection-observer": "^0.11.0",
+        "nuxt": "^2.14.3",
+        "nuxt-composition-api": "^0.11.0",
+        "nuxt-polyfill": "^1.0.3",
+        "smoothscroll-polyfill": "^0.4.4",
+        "url-polyfill": "^1.1.10"
+    },
+    "devDependencies": {
+        "pug": "^3.0.0",
+        "pug-loader": "^2.4.0",
+        "pug-plain-loader": "^1.0.0"
+    }
+}
